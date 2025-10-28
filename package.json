@@ -1,6 +1,6 @@
 {
   "name": "@chainplatform/accordion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple animated Accordion component for React Native and React Native Web.",
   "main": "index.js",
   "homepage": "https://github.com/ChainPlatform/react-native-accordion",
